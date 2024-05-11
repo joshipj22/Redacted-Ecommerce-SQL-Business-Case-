@@ -14,8 +14,7 @@ T@#$*t's operations in Brazil. The information can shed light on various aspects
 business, such as order processing, pricing strategies, payment and shipping efficiency, 
 customer demographics, product characteristics, and customer satisfaction levels.
 
-Dataset: 
-https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb?usp=sharing
+Dataset: The link to the dataset cant be shared because of data confidentiality.
 The data is available in 8 different csv files:
 1. customers.csv
 2. geolocation.csv
